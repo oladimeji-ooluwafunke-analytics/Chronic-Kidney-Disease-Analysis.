@@ -6,7 +6,7 @@ This project presents an interactive Power BI dashboard designed to analyze Chro
 
 The dashboard is designed to transform clinical data into clear and actionable insights that can support better understanding of CKD patterns and associated risk factors.
 
- **Project Status:** Work in Progress  
+## **Project Status:** Work in Progress  
 The dashboard is currently being refined and updated with additional analysis, improved visualizations, and validated insights.
 
 ## Tools Used
